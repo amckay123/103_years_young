@@ -1,0 +1,2 @@
+// cooldown
+cooldown = 0;
