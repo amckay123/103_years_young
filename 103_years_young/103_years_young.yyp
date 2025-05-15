@@ -19,11 +19,11 @@
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":5,},
     {"id":{"name":"obj_granny","path":"objects/obj_granny/obj_granny.yy",},"order":0,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":5,},
+    {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":4,},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":8,},
     {"id":{"name":"obj_tunnel","path":"objects/obj_tunnel/obj_tunnel.yy",},"order":4,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":1,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":9,},
-    {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
