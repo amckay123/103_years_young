@@ -3,7 +3,7 @@
   "resourceVersion": "1.6",
   "name": "103_years_young",
   "resources": [
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
+    {"id":{"name":"spr_BULLETDRAWINGS","path":"sprites/spr_BULLETDRAWINGS/spr_BULLETDRAWINGS.yy",},"order":7,},
     {"id":{"name":"obj_ladder","path":"objects/obj_ladder/obj_ladder.yy",},"order":3,},
     {"id":{"name":"spr_ladder","path":"sprites/spr_ladder/spr_ladder.yy",},"order":3,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":2,},
