@@ -20,3 +20,10 @@ if (mouse_check_button(mb_left)) && (cooldown < 1){
 		
 }
 cooldown = cooldown - 1;
+
+if(cooldown > 0){
+    cooldown--;
+}
+
+// lives
+lives = 0 room_goto(rm_game_over);
