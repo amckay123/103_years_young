@@ -1,5 +1,5 @@
 // cooldown
-cooldown = 0;
+cooldown = 10;
 
 // lives
 lives = 5;

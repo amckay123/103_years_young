@@ -11,6 +11,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":2,},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"order":8,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":2,},
+    {"id":{"name":"obj_granny_front_page","path":"objects/obj_granny_front_page/obj_granny_front_page.yy",},"order":10,},
     {"id":{"name":"spr_tunnel","path":"sprites/spr_tunnel/spr_tunnel.yy",},"order":4,},
     {"id":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},"order":2,},
     {"id":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},"order":8,},
