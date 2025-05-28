@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"snd_boom","path":"sounds/snd_boom/snd_boom.yy",},"order":1,},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},"order":6,},
+    {"id":{"name":"spr_room_wall","path":"sprites/spr_room_wall/spr_room_wall.yy",},"order":13,},
     {"id":{"name":"spr_BULLETDRAWINGS","path":"sprites/spr_BULLETDRAWINGS/spr_BULLETDRAWINGS.yy",},"order":7,},
     {"id":{"name":"obj_ladder","path":"objects/obj_ladder/obj_ladder.yy",},"order":3,},
     {"id":{"name":"obj_controls","path":"objects/obj_controls/obj_controls.yy",},"order":9,},
@@ -42,7 +43,8 @@
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},"order":11,},
     {"id":{"name":"spr_robot_front_page","path":"sprites/spr_robot_front_page/spr_robot_front_page.yy",},"order":8,},
     {"id":{"name":"obj_tunnel","path":"objects/obj_tunnel/obj_tunnel.yy",},"order":4,},
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":1,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":11,},
     {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},"order":3,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":9,},
   ],
