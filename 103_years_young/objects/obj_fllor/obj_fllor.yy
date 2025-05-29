@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wall",
+  "name": "obj_fllor",
   "spriteId": {
-    "name": "spr_room_wall",
-    "path": "sprites/spr_room_wall/spr_room_wall.yy",
+    "name": "spr_fllor",
+    "path": "sprites/spr_fllor/spr_fllor.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
