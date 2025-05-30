@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "rm_3",
+  "name": "rm_message",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -16,17 +16,19 @@
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
   ],
   "layers": [
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5CA2A517","properties":[],"isDnd":false,"objectId":{"name":"obj_granny","path":"objects/obj_granny/obj_granny.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":23.5,"scaleY":14.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1120.0,"y":640.0,},
+    {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
+        {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_4F503E8F","spriteId":{"name":"spr_message","path":"sprites/spr_message/spr_message.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":18.5,"scaleY":17.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":-96.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"bullets_layer","instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65A6FDD5","properties":[],"isDnd":false,"objectId":{"name":"obj_next","path":"objects/obj_next/obj_next.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":9.0,"scaleY":8.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":928.0,},
+      ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_5CA2A517","path":"rooms/rm_3/rm_3.yy",},
+    {"name":"inst_65A6FDD5","path":"rooms/rm_message/rm_message.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

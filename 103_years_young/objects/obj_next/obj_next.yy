@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_start",
+  "name": "obj_next",
   "spriteId": {
-    "name": "spr_next",
-    "path": "sprites/spr_next/spr_next.yy",
+    "name": "spr_start",
+    "path": "sprites/spr_start/spr_start.yy",
   },
   "solid": false,
   "visible": true,
