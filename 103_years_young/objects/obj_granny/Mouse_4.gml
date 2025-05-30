@@ -6,5 +6,4 @@ if cooldown = false{
 	cooldown = true;
 	alarm[0] = 90;
 	
-	
 }
