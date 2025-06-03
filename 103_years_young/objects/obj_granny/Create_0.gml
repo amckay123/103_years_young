@@ -2,9 +2,6 @@
 cooldown = false;
 
 // lives
-hp = 5;
-if hp < 1{
-	room_goto(rm_game_over)
-}
+global.hp = 5;
 
 audio_is_playing(snd_music);

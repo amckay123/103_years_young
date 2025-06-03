@@ -13,3 +13,6 @@ if (mouse_check_button(mb_left)){
 		
 }
 
+if global.hp = 0{
+	room_goto(rm_game_over)
+}
