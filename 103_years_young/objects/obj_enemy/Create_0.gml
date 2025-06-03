@@ -6,4 +6,4 @@ if enemy_count = 12{
 	final_enemy_count = true
 }
 
-move_towards_point(1210, 3129, obj_granny);
+move_towards_point(1242, 2235, obj_granny);
