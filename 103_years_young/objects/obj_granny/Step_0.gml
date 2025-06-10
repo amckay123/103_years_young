@@ -8,11 +8,14 @@ if (keyboard_check(vk_down)) y += 12;
 image_angle = point_direction(x, y, mouse_x, mouse_y,);
 
 // how often bullets appear
-if (mouse_check_button(mb_left)){
+if (mouse_check_button(mb_left)) == true{
 		instance_create_layer(x, y, "bullets_layer", obj_bullet);
-		
 }
 
 if global.hp = 0{
 	room_goto(rm_game_over)
+}
+
+if rm_3 == true{
+		instance_create_layer(x, y, "bullets_layer", obj_bomb);	
 }
