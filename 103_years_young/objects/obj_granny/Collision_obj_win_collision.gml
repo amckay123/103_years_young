@@ -1,0 +1,1 @@
+room_goto(rm_you_win);

@@ -35,6 +35,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bazooka","path":"objects/obj_bazooka/obj_bazooka.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_quickbazooka","path":"objects/obj_quickbazooka/obj_quickbazooka.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_quickchangebullet","path":"objects/obj_quickchangebullet/obj_quickchangebullet.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_win_collision","path":"objects/obj_win_collision/obj_win_collision.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
